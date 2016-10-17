@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">TheFirstMVPApp</string>
+    <string name="app_name">The First MVP App</string>
+    <string name="ok">OK</string>
+    <string name="info">Informacao</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="no_button">No</string>
+    <string name="yes_button">Yes</string>
+    <string name="warning">Warning</string>
+    <string name="error">Error</string>
 </resources>
